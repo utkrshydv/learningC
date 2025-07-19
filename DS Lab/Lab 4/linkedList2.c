@@ -75,7 +75,5 @@ int main(){
     default: 
      printf("Please enter a valid choice.");
   }
-
-
   return 0;
 }
